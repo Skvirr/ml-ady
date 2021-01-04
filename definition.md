@@ -33,6 +33,8 @@
 2. Cumulative Reward: https://www.youtube.com/watch?v=ysriH65lV9o
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
 
+
+
 ### Markov Decision Process(MDP)(example)(⭐)
 ##### ml-agents use POMDPs not [MDP](https://github.com/Unity-Technologies/ml-agents/issues/84) in 2017
 1. https://www.youtube.com/watch?v=NBWbluSbxPg
