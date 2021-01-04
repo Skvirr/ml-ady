@@ -12,15 +12,15 @@ Safe, budget-oriented and scalable re-purposing of consumer grade electronics fo
 
 # Table of contents <!-- omit in toc -->
 
-- [💡 About](#-about)
-- [🛠 Key technologies and tools](#-key-technologies-and-tools)
-- [📚 Resources that inspired the idea](#-resources-that-inspired-the-idea)
-- [📈 Possible applications (long term)](#-possible-applications-long-term)
-- [Resources for developers](#resources-for-developers)
+- [About ℹ️](#about-ℹ️)
+- [Key technologies and tools 🛠️](#key-technologies-and-tools-️)
+- [Resources that inspired the idea �](#resources-that-inspired-the-idea-)
+- [Possible applications (long term) 📈](#possible-applications-long-term-)
+- [Resources for developers 🤓](#resources-for-developers-)
   - [ML-agents (Unity)](#ml-agents-unity)
   - [Rewards ⭐⭐⭐](#rewards-)
 
-## 💡 About
+## About ℹ️
 
 ML-Ady aims to make an approachable way to utilize machine learning for the betterment of humanity, by using cutting edge techniques and a no frills attitude.
 
@@ -32,7 +32,7 @@ Virtually all safety concerns related to autonomous vehicles are irrelevant, as 
 
 ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a wide variety of use-cases, but initially the goal will be to create a fleet of budget RC vehicles to collect garbage at the Norwegian University of Life Sciences and surrounding areas.
 
-## 🛠 Key technologies and tools
+## Key technologies and tools 🛠️
 
 - [Unity (game engine)](https://unity.com/)
   - [ML Agents](https://github.com/Unity-Technologies/ml-agents)
@@ -44,7 +44,7 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
   - [Isaac](https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
 - [Raspberry Pi (MCUs)](https://www.raspberrypi.org/)
 
-## 📚 Resources that inspired the idea
+## Resources that inspired the idea 💡
 
 <div style="display: flex; flex-direction: row; margin-bottom: 25px;" >
     <div>
@@ -85,7 +85,7 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
     </div>
 </div>
 
-## 📈 Possible applications (long term)
+## Possible applications (long term) 📈
 
 - Search and resources
 - Logistics
@@ -94,7 +94,7 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 - Farming
 - Industrial production
 
-## Resources for developers
+## Resources for developers 🤓
 
 ⭐s indicates relevancy
 
