@@ -46,44 +46,10 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 
 ## Resources that inspired the idea 💡
 
-<div style="display: flex; flex-direction: row; margin-bottom: 25px;" >
-    <div style="width: 45%;">
-        <!-- <a href="https://youtu.be/4M4T9rBoWu0?t=15" > -->
-            <img style="border-radius: 5px; box-shadow: 0px 3px 6px -1px rgba(0, 0, 0, .375)" src="https://img.youtube.com/vi/4M4T9rBoWu0/0.jpg"/>
-        <!-- </a> -->
-        <div>
-            <a href="https://www.youtube.com/watch?v=knIzDj1Ocoo">Video: Radio controlled farming and construction vehicles<a/>
-        </div>
-    </div>
-    <div style="width: 15px"></div>
-    <div style="width: 45%;">
-        <!-- <a href="https://www.youtube.com/watch?v=knIzDj1Ocoo" > -->
-            <img style="border-radius: 5px; box-shadow: 0px 3px 6px -1px rgba(0, 0, 0, .375)" src="https://img.youtube.com/vi/knIzDj1Ocoo/0.jpg"/>
-        <!-- </a> -->
-        <div>
-            <a href="https://www.youtube.com/watch?v=knIzDj1Ocoo">Video: Learning to walk using reinforcement learning<a/>
-        </div>
-    </div>
-</div>
-<div style="display: flex; flex-direction: row; margin-bottom: 15px;" >
-    <div style="width: 45%;">
-        <!-- <a href="https://www.youtube.com/watch?v=knIzDj1Ocoo" > -->
-            <img style="border-radius: 5px; box-shadow: 0px 3px 6px -1px rgba(0, 0, 0, .375)" src="https://img.youtube.com/vi/sFY_0e1nTQE/0.jpg"/>
-        <!-- </a> -->
-        <div>
-            <a href="https://www.youtube.com/watch?v=sFY_0e1nTQE">Video: Transfer reinforcement learning from simulation to real life<a/>
-        </div>
-    </div>
-    <div style="width: 15px"></div>
-    <div style="width: 45%;">
-        <!-- <a href="https://github.com/Unity-Technologies/articulations-robot-demo/tree/mlagents" > -->
-            <img style="border-radius: 5px; box-shadow: 0px 3px 6px -1px rgba(0, 0, 0, .375)" src="https://img.youtube.com/vi/NGlTRErHkPs/0.jpg"/>
-        <!-- </a> -->
-        <div>
-            <a href="https://www.youtube.com/watch?v=knIzDj1Ocoo">Example: Train a robot arm (UR3) in simulation.<a/>
-        </div>
-    </div>
-</div>
+- [Video: Radio controlled farming and construction vehicles](https://www.youtube.com/watch?v=knIzDj1Ocoo)
+- [Video: Learning to walk using reinforcement learning](https://www.youtube.com/watch?v=knIzDj1Ocoo)
+- [Video: Transfer reinforcement learning from simulation to real life](https://www.youtube.com/watch?v=sFY_0e1nTQE)
+- [Example: Train a robot arm (UR3) in simulation.](https://www.youtube.com/watch?v=knIzDj1Ocoo)
 
 ## Possible applications (long term) 📈
 
