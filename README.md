@@ -14,11 +14,11 @@ Safe, budget-oriented and scalable re-purposing of consumer grade electronics fo
 
 - [About ℹ️](#about-ℹ️)
 - [Key technologies and tools 🛠️](#key-technologies-and-tools-️)
-- [Resources that inspired the idea �](#resources-that-inspired-the-idea-)
+- [Resources that inspired the idea 💡](#resources-that-inspired-the-idea-)
 - [Possible applications (long term) 📈](#possible-applications-long-term-)
 - [Resources for developers 🤓](#resources-for-developers-)
   - [ML-agents (Unity)](#ml-agents-unity)
-  - [Rewards ⭐⭐⭐](#rewards-)
+  - [Rewards](#rewards)
 
 ## About ℹ️
 
@@ -96,8 +96,6 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 
 ## Resources for developers 🤓
 
-⭐s indicates relevancy
-
 [Google's Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
 ### ML-agents (Unity)
@@ -109,7 +107,7 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 - [Toolkit Glossary](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Glossary.md)
 - [Migrating ML-agents updates](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Migrating.md)
 
-### Rewards ⭐⭐⭐
+### Rewards
 1. Reward: https://www.youtube.com/watch?v=pVIFc72VYH8
 2. Cumulative Reward: https://www.youtube.com/watch?v=ysriH65lV9o
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
