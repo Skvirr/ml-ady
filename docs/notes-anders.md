@@ -1,4 +1,5 @@
-## About document
+# Anders' notes
+
 #### ⭐ is how relevant it is to our projects
 
 # Concept to look at
