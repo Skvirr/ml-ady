@@ -28,6 +28,7 @@
 - ## [TensorBoard](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-Tensorboard.md)
 - ## [Toolkit Glossary](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Glossary.md)
 - ## [Migrating ml-agents updates](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Migrating.md)
+- ## [Api](https://docs.unity3d.com/Packages/com.unity.ml-agents@1.0/api/Unity.MLAgents.Agent.html)
 # Video
 ### Reward(conceptually)(⭐⭐⭐)
 1. Reward: https://www.youtube.com/watch?v=pVIFc72VYH8
