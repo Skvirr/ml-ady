@@ -35,6 +35,8 @@
 2. Cumulative Reward: https://www.youtube.com/watch?v=ysriH65lV9o
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
 
+- ## [Visualisering av model](https://github.com/lutzroeder/netron)
+
 
 
 ### Markov Decision Process(MDP)(example)(⭐)
