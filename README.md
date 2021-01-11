@@ -61,9 +61,9 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 - Industrial production
 
 ## Resources for developers 🤓
-
-[Google's Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-
+- [Google's Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+- [Migrating ML-agents updates](https://paperswithcode.com/?fbclid=IwAR0xZFDHXZ4oRInnGxIM4foh7hdRxLht_NEvLn8ohtq1IfHrSp3xpOqHuSk)
+-  [Visualization of onnx](https://github.com/lutzroeder/netron)
 ### ML-agents (Unity)
 - **[Documentation on script(agent)](https://docs.unity3d.com/Packages/com.unity.ml-agents@1.7/api/Unity.MLAgents.Agent.html#Unity_MLAgents_Agent_OnActionReceived_Unity_MLAgents_Actuators_ActionBuffers_)**
 - [All documentation](https://github.com/Unity-Technologies/ml-agents/tree/master/docs)
@@ -77,3 +77,5 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 1. Reward: https://www.youtube.com/watch?v=pVIFc72VYH8
 2. Cumulative Reward: https://www.youtube.com/watch?v=ysriH65lV9o
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
+
+

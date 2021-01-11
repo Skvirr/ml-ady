@@ -36,7 +36,7 @@
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
 
 - ## [Visualisering av model](https://github.com/lutzroeder/netron)
-
+- ## [onnxruntime with c#](https://github.com/microsoft/onnxruntime/blob/master/docs/CSharp_API.md)
 
 
 ### Markov Decision Process(MDP)(example)(⭐)
