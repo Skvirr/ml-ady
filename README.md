@@ -19,6 +19,7 @@ Safe, budget-oriented and scalable re-purposing of consumer grade electronics fo
 - [Resources for developers 🤓](#resources-for-developers-)
   - [ML-agents (Unity)](#ml-agents-unity)
   - [Rewards](#rewards)
+  - [Jetson Nano](#jetson-nano)
 
 ## About ℹ️
 
@@ -78,4 +79,9 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 2. Cumulative Reward: https://www.youtube.com/watch?v=ysriH65lV9o
 3. Discounted Return: https://www.youtube.com/watch?v=opXGNPwwn7g
 
+### Jetson Nano
+1. Password: itiswhatitis
+2. ssh nano@10.248.1.5
+3. [Human Detection with OpenCV](https://thedatafrog.com/en/articles/human-detection-video/)
+4. 
 
