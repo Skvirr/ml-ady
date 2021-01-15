@@ -81,7 +81,7 @@ ML-Ady's long-term vision is to be an AI- and robotics foundation intended for a
 
 ### Jetson Nano
 1. Password: itiswhatitis
-2. ssh nano@10.248.1.5
+2. ssh nano@10.248.1.52
 3. [Human Detection with OpenCV](https://thedatafrog.com/en/articles/human-detection-video/)
-4. 
+
 
